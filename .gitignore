@@ -1,2 +1,5 @@
 .idea
 *.iml
+src/main/webapp/js/test
+out
+target
